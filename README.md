@@ -54,6 +54,7 @@ Maintenance: Update and maintain codebases, fixing bugs, improving functionality
 
 2. Quality Assurance Engineer
 Role: A QA Engineer’s primary responsibility is to ensure the quality and functionality of the software through testing and validation.
+
 Responsibilities:
 Test Planning and Execution: Design, develop, and execute test cases for functional, performance, and regression testing.
 Automation: Develop automated test scripts for repetitive tests, often using tools like Selenium or JUnit.
